@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Ishtiaq Rashid (Wolf)
+# 👋 Hi, I'm Ishtiaq Rashid
 
-🎯**SOC Analyst (L1) | Cybersecurity enthusiasts**  
-📍 Pakistan | Open to Remote & On-Site Roles
+**SOC Analyst (L1) | Cybersecurity enthusiasts**  
+  Pakistan | Open to Remote & On-Site Roles
 
 I am a Computer Science graduate with a strong focus on **Cybersecurity**, **SOC operations, SIEM monitoring, log analysis, and incident response**.  
 I enjoy detecting threats, analyzing alerts, and simulating real-world attacks in lab environments.
